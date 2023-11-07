@@ -1,7 +1,7 @@
 # IntroNeuroComp2022
 ![Logo](title_slide.jpg "Title slide")
 
-- **Quand :**  Le mercredi de 13h30 à 17h30 (ATTENTION sauf 8/11 : 14h à 17h)
+- **Quand :**  Le mercredi de 13h30 à 17h30
 - **Où :**  Cordier E
 - **ATTENTION :** Premier cours du 8 nov. de 14h à 17h en salle Cuneo F, pas de cours le 29 nov.
 - **Programmation interactive :**  http://tiny.cc/introcompneuro
