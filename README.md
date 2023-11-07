@@ -1,4 +1,4 @@
-# IntroNeuroComp2022
+# IntroNeuroComp2023
 ![Logo](title_slide.jpg "Title slide")
 
 - **Quand :**  Le mercredi de 13h30 à 17h30
